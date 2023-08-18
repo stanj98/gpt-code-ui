@@ -1,1 +1,1 @@
-worker: source ven/bin/activate && pip install -r requirements.txt && gptcode
+worker: source ven/bin/activate && pip install -r requirements.txt && python setup.py
